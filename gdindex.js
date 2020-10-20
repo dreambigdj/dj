@@ -26,10 +26,9 @@ function init() {
   var html = `
 <header class="nexmoe-nav">
 	<div class="navSize">
-			<a href="/"><img class="avatar" src="https://lh3.googleusercontent.com/ogw/ADGmqu9jHwL_qvczXBkWAsfJj_jYVegk170-Qo6hME150kY=s32-c-mo"/></a>
+			<a href="/"><img class="avatar" src="https://raw.githubusercontent.com/dreambigdj/dj/main/tx.jpg"/></a>
 			<div class="nav_menu">
 				<ul class="menu_ul">
-					<li class="menu_li"><a href="https://5mayrain.github.io/" target="_blank">博客</a></li>
 					<li class="menu_li"><a href="https://drive.google.com/" target="_blank">登陆</a></li>
 				</ul>
 				<div class="nav_icon" ></div>
